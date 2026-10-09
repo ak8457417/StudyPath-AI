@@ -7,4 +7,4 @@ langchain-community
 langchain-google-genai
 langchain-ollama
 langgraph
-youtube-search-python
+youtube-search
