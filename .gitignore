@@ -1,8 +1,16 @@
 .env
 .env.*
 !.env.example
+.streamlit/secrets.toml
+
+# Virtual environments
 .venv/
 venv/
+
+# Python cache
 __pycache__/
 *.py[cod]
-.streamlit/secrets.toml
+
+# IDE
+.idea/
+.vscode/
